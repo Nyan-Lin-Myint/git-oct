@@ -1,0 +1,10 @@
+
+git init
+git remote add origin github_url     //add github_url
+git config --get remote.origin.url   //check github_url
+git add                              //add git
+git commit -m "name"
+git push origin main                //store
+git remote remove origin            //github_url remove
+
+
